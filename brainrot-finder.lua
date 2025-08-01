@@ -2,6 +2,7 @@
 -- Features: Real-time scanning, Discord notifications, server hopping, base scanning
 -- Enhanced with better error handling, multiple game support, and advanced features
 -- Version: 2.0
+-- Created By Kurd <@893138460213403748>
 -- Date: July 31, 2025
 
 -- Load WindUI library with multiple fallback URLs and error handling
